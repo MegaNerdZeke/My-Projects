@@ -1,6 +1,13 @@
 <!doctype html><html><head><meta charset="utf-8"><title>Wattson Widget</title></head>
 <body><h1>Wattson Widget</h1>
-<p>Daily GIF scenes for the Wattson home-screen widget app.</p>
-<p><a href="app-debug.apk">Download the Wattson Widget app (app-debug.apk)</a></p>
-<p>Feed: <a href="feed.json">feed.json</a></p>
+<p>Daily GIF scenes for the Wattson home-screen widget app (v0.2.1).</p>
+<h2>Install the app</h2>
+<p>The APK is stored here as base64 text (<a href="app-debug.apk.b64">app-debug.apk.b64</a>)
+because GitHub's API tooling can only upload text files. To install:</p>
+<pre>base64 -d app-debug.apk.b64 &gt; app-debug.apk
+adb install -r app-debug.apk</pre>
+<p>Or build it yourself from the project source (see the Wattson widget app
+project): open it in Android Studio and Run, or <code>./gradlew assembleDebug</code>.</p>
+<p>A real <code>.apk</code> release asset will replace this workaround.</p>
+<p>Feed: <a href="feed.json">feed.json</a> (v1 — the 5 bundled scenes)</p>
 </body></html>
