@@ -4,42 +4,42 @@
     {
       "name": "Reading a book",
       "frames": [
-        "https://raw.githubusercontent.com/MegaNerdZeke/My-Projects/main/wattson-widget/frames/frame_read_1.webp",
-        "https://raw.githubusercontent.com/MegaNerdZeke/My-Projects/main/wattson-widget/frames/frame_read_2.webp",
-        "https://raw.githubusercontent.com/MegaNerdZeke/My-Projects/main/wattson-widget/frames/frame_read_3.webp",
-        "https://raw.githubusercontent.com/MegaNerdZeke/My-Projects/main/wattson-widget/frames/frame_read_4.webp"
+        "https://raw.githubusercontent.com/MegaNerdZeke/My-Projects/main/wattson-widget/frames/frame_read_1.webp.b64",
+        "https://raw.githubusercontent.com/MegaNerdZeke/My-Projects/main/wattson-widget/frames/frame_read_2.webp.b64",
+        "https://raw.githubusercontent.com/MegaNerdZeke/My-Projects/main/wattson-widget/frames/frame_read_3.webp.b64",
+        "https://raw.githubusercontent.com/MegaNerdZeke/My-Projects/main/wattson-widget/frames/frame_read_4.webp.b64"
       ]
     },
     {
       "name": "Waving hello",
       "frames": [
-        "https://raw.githubusercontent.com/MegaNerdZeke/My-Projects/main/wattson-widget/frames/frame_wave_1.webp",
-        "https://raw.githubusercontent.com/MegaNerdZeke/My-Projects/main/wattson-widget/frames/frame_wave_2.webp",
-        "https://raw.githubusercontent.com/MegaNerdZeke/My-Projects/main/wattson-widget/frames/frame_wave_3.webp",
-        "https://raw.githubusercontent.com/MegaNerdZeke/My-Projects/main/wattson-widget/frames/frame_wave_4.webp"
+        "https://raw.githubusercontent.com/MegaNerdZeke/My-Projects/main/wattson-widget/frames/frame_wave_1.webp.b64",
+        "https://raw.githubusercontent.com/MegaNerdZeke/My-Projects/main/wattson-widget/frames/frame_wave_2.webp.b64",
+        "https://raw.githubusercontent.com/MegaNerdZeke/My-Projects/main/wattson-widget/frames/frame_wave_3.webp.b64",
+        "https://raw.githubusercontent.com/MegaNerdZeke/My-Projects/main/wattson-widget/frames/frame_wave_4.webp.b64"
       ]
     },
     {
       "name": "Playing with electricity",
       "frames": [
-        "https://raw.githubusercontent.com/MegaNerdZeke/My-Projects/main/wattson-widget/frames/frame_spark_1.webp",
-        "https://raw.githubusercontent.com/MegaNerdZeke/My-Projects/main/wattson-widget/frames/frame_spark_2.webp",
-        "https://raw.githubusercontent.com/MegaNerdZeke/My-Projects/main/wattson-widget/frames/frame_spark_3.webp",
-        "https://raw.githubusercontent.com/MegaNerdZeke/My-Projects/main/wattson-widget/frames/frame_spark_4.webp"
+        "https://raw.githubusercontent.com/MegaNerdZeke/My-Projects/main/wattson-widget/frames/frame_spark_1.webp.b64",
+        "https://raw.githubusercontent.com/MegaNerdZeke/My-Projects/main/wattson-widget/frames/frame_spark_2.webp.b64",
+        "https://raw.githubusercontent.com/MegaNerdZeke/My-Projects/main/wattson-widget/frames/frame_spark_3.webp.b64",
+        "https://raw.githubusercontent.com/MegaNerdZeke/My-Projects/main/wattson-widget/frames/frame_spark_4.webp.b64"
       ]
     },
     {
       "name": "Stargazing",
       "frames": [
-        "https://raw.githubusercontent.com/MegaNerdZeke/My-Projects/main/wattson-widget/frames/frame_star_1.webp",
-        "https://raw.githubusercontent.com/MegaNerdZeke/My-Projects/main/wattson-widget/frames/frame_star_3.webp",
-        "https://raw.githubusercontent.com/MegaNerdZeke/My-Projects/main/wattson-widget/frames/frame_star_4.webp"
+        "https://raw.githubusercontent.com/MegaNerdZeke/My-Projects/main/wattson-widget/frames/frame_star_1.webp.b64",
+        "https://raw.githubusercontent.com/MegaNerdZeke/My-Projects/main/wattson-widget/frames/frame_star_3.webp.b64",
+        "https://raw.githubusercontent.com/MegaNerdZeke/My-Projects/main/wattson-widget/frames/frame_star_4.webp.b64"
       ]
     },
     {
       "name": "Hello!",
       "frames": [
-        "https://raw.githubusercontent.com/MegaNerdZeke/My-Projects/main/wattson-widget/frames/wattson_avatar.webp"
+        "https://raw.githubusercontent.com/MegaNerdZeke/My-Projects/main/wattson-widget/frames/wattson_avatar.webp.b64"
       ]
     }
   ]
