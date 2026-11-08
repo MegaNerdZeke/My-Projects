@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "scenes": [
     {
       "name": "Reading a book",
@@ -7,7 +7,19 @@
         "https://raw.githubusercontent.com/MegaNerdZeke/My-Projects/main/wattson-widget/frames/frame_read_1.webp.b64",
         "https://raw.githubusercontent.com/MegaNerdZeke/My-Projects/main/wattson-widget/frames/frame_read_2.webp.b64",
         "https://raw.githubusercontent.com/MegaNerdZeke/My-Projects/main/wattson-widget/frames/frame_read_3.webp.b64",
-        "https://raw.githubusercontent.com/MegaNerdZeke/My-Projects/main/wattson-widget/frames/frame_read_4.webp.b64"
+        "https://raw.githubusercontent.com/MegaNerdZeke/My-Projects/main/wattson-widget/frames/frame_read_4.webp.b64",
+        "https://raw.githubusercontent.com/MegaNerdZeke/My-Projects/main/wattson-widget/frames/frame_read_5.webp.b64",
+        "https://raw.githubusercontent.com/MegaNerdZeke/My-Projects/main/wattson-widget/frames/frame_read_6.webp.b64",
+        "https://raw.githubusercontent.com/MegaNerdZeke/My-Projects/main/wattson-widget/frames/frame_read_7.webp.b64",
+        "https://raw.githubusercontent.com/MegaNerdZeke/My-Projects/main/wattson-widget/frames/frame_read_8.webp.b64",
+        "https://raw.githubusercontent.com/MegaNerdZeke/My-Projects/main/wattson-widget/frames/frame_read_9.webp.b64",
+        "https://raw.githubusercontent.com/MegaNerdZeke/My-Projects/main/wattson-widget/frames/frame_read_10.webp.b64",
+        "https://raw.githubusercontent.com/MegaNerdZeke/My-Projects/main/wattson-widget/frames/frame_read_11.webp.b64",
+        "https://raw.githubusercontent.com/MegaNerdZeke/My-Projects/main/wattson-widget/frames/frame_read_12.webp.b64",
+        "https://raw.githubusercontent.com/MegaNerdZeke/My-Projects/main/wattson-widget/frames/frame_read_13.webp.b64",
+        "https://raw.githubusercontent.com/MegaNerdZeke/My-Projects/main/wattson-widget/frames/frame_read_14.webp.b64",
+        "https://raw.githubusercontent.com/MegaNerdZeke/My-Projects/main/wattson-widget/frames/frame_read_15.webp.b64",
+        "https://raw.githubusercontent.com/MegaNerdZeke/My-Projects/main/wattson-widget/frames/frame_read_16.webp.b64"
       ]
     },
     {
@@ -16,7 +28,19 @@
         "https://raw.githubusercontent.com/MegaNerdZeke/My-Projects/main/wattson-widget/frames/frame_wave_1.webp.b64",
         "https://raw.githubusercontent.com/MegaNerdZeke/My-Projects/main/wattson-widget/frames/frame_wave_2.webp.b64",
         "https://raw.githubusercontent.com/MegaNerdZeke/My-Projects/main/wattson-widget/frames/frame_wave_3.webp.b64",
-        "https://raw.githubusercontent.com/MegaNerdZeke/My-Projects/main/wattson-widget/frames/frame_wave_4.webp.b64"
+        "https://raw.githubusercontent.com/MegaNerdZeke/My-Projects/main/wattson-widget/frames/frame_wave_4.webp.b64",
+        "https://raw.githubusercontent.com/MegaNerdZeke/My-Projects/main/wattson-widget/frames/frame_wave_5.webp.b64",
+        "https://raw.githubusercontent.com/MegaNerdZeke/My-Projects/main/wattson-widget/frames/frame_wave_6.webp.b64",
+        "https://raw.githubusercontent.com/MegaNerdZeke/My-Projects/main/wattson-widget/frames/frame_wave_7.webp.b64",
+        "https://raw.githubusercontent.com/MegaNerdZeke/My-Projects/main/wattson-widget/frames/frame_wave_8.webp.b64",
+        "https://raw.githubusercontent.com/MegaNerdZeke/My-Projects/main/wattson-widget/frames/frame_wave_9.webp.b64",
+        "https://raw.githubusercontent.com/MegaNerdZeke/My-Projects/main/wattson-widget/frames/frame_wave_10.webp.b64",
+        "https://raw.githubusercontent.com/MegaNerdZeke/My-Projects/main/wattson-widget/frames/frame_wave_11.webp.b64",
+        "https://raw.githubusercontent.com/MegaNerdZeke/My-Projects/main/wattson-widget/frames/frame_wave_12.webp.b64",
+        "https://raw.githubusercontent.com/MegaNerdZeke/My-Projects/main/wattson-widget/frames/frame_wave_13.webp.b64",
+        "https://raw.githubusercontent.com/MegaNerdZeke/My-Projects/main/wattson-widget/frames/frame_wave_14.webp.b64",
+        "https://raw.githubusercontent.com/MegaNerdZeke/My-Projects/main/wattson-widget/frames/frame_wave_15.webp.b64",
+        "https://raw.githubusercontent.com/MegaNerdZeke/My-Projects/main/wattson-widget/frames/frame_wave_16.webp.b64"
       ]
     },
     {
@@ -25,21 +49,61 @@
         "https://raw.githubusercontent.com/MegaNerdZeke/My-Projects/main/wattson-widget/frames/frame_spark_1.webp.b64",
         "https://raw.githubusercontent.com/MegaNerdZeke/My-Projects/main/wattson-widget/frames/frame_spark_2.webp.b64",
         "https://raw.githubusercontent.com/MegaNerdZeke/My-Projects/main/wattson-widget/frames/frame_spark_3.webp.b64",
-        "https://raw.githubusercontent.com/MegaNerdZeke/My-Projects/main/wattson-widget/frames/frame_spark_4.webp.b64"
+        "https://raw.githubusercontent.com/MegaNerdZeke/My-Projects/main/wattson-widget/frames/frame_spark_4.webp.b64",
+        "https://raw.githubusercontent.com/MegaNerdZeke/My-Projects/main/wattson-widget/frames/frame_spark_5.webp.b64",
+        "https://raw.githubusercontent.com/MegaNerdZeke/My-Projects/main/wattson-widget/frames/frame_spark_6.webp.b64",
+        "https://raw.githubusercontent.com/MegaNerdZeke/My-Projects/main/wattson-widget/frames/frame_spark_7.webp.b64",
+        "https://raw.githubusercontent.com/MegaNerdZeke/My-Projects/main/wattson-widget/frames/frame_spark_8.webp.b64",
+        "https://raw.githubusercontent.com/MegaNerdZeke/My-Projects/main/wattson-widget/frames/frame_spark_9.webp.b64",
+        "https://raw.githubusercontent.com/MegaNerdZeke/My-Projects/main/wattson-widget/frames/frame_spark_10.webp.b64",
+        "https://raw.githubusercontent.com/MegaNerdZeke/My-Projects/main/wattson-widget/frames/frame_spark_11.webp.b64",
+        "https://raw.githubusercontent.com/MegaNerdZeke/My-Projects/main/wattson-widget/frames/frame_spark_12.webp.b64",
+        "https://raw.githubusercontent.com/MegaNerdZeke/My-Projects/main/wattson-widget/frames/frame_spark_13.webp.b64",
+        "https://raw.githubusercontent.com/MegaNerdZeke/My-Projects/main/wattson-widget/frames/frame_spark_14.webp.b64",
+        "https://raw.githubusercontent.com/MegaNerdZeke/My-Projects/main/wattson-widget/frames/frame_spark_15.webp.b64",
+        "https://raw.githubusercontent.com/MegaNerdZeke/My-Projects/main/wattson-widget/frames/frame_spark_16.webp.b64"
       ]
     },
     {
       "name": "Stargazing",
       "frames": [
         "https://raw.githubusercontent.com/MegaNerdZeke/My-Projects/main/wattson-widget/frames/frame_star_1.webp.b64",
+        "https://raw.githubusercontent.com/MegaNerdZeke/My-Projects/main/wattson-widget/frames/frame_star_2.webp.b64",
         "https://raw.githubusercontent.com/MegaNerdZeke/My-Projects/main/wattson-widget/frames/frame_star_3.webp.b64",
-        "https://raw.githubusercontent.com/MegaNerdZeke/My-Projects/main/wattson-widget/frames/frame_star_4.webp.b64"
+        "https://raw.githubusercontent.com/MegaNerdZeke/My-Projects/main/wattson-widget/frames/frame_star_4.webp.b64",
+        "https://raw.githubusercontent.com/MegaNerdZeke/My-Projects/main/wattson-widget/frames/frame_star_5.webp.b64",
+        "https://raw.githubusercontent.com/MegaNerdZeke/My-Projects/main/wattson-widget/frames/frame_star_6.webp.b64",
+        "https://raw.githubusercontent.com/MegaNerdZeke/My-Projects/main/wattson-widget/frames/frame_star_7.webp.b64",
+        "https://raw.githubusercontent.com/MegaNerdZeke/My-Projects/main/wattson-widget/frames/frame_star_8.webp.b64",
+        "https://raw.githubusercontent.com/MegaNerdZeke/My-Projects/main/wattson-widget/frames/frame_star_9.webp.b64",
+        "https://raw.githubusercontent.com/MegaNerdZeke/My-Projects/main/wattson-widget/frames/frame_star_10.webp.b64",
+        "https://raw.githubusercontent.com/MegaNerdZeke/My-Projects/main/wattson-widget/frames/frame_star_11.webp.b64",
+        "https://raw.githubusercontent.com/MegaNerdZeke/My-Projects/main/wattson-widget/frames/frame_star_12.webp.b64",
+        "https://raw.githubusercontent.com/MegaNerdZeke/My-Projects/main/wattson-widget/frames/frame_star_13.webp.b64",
+        "https://raw.githubusercontent.com/MegaNerdZeke/My-Projects/main/wattson-widget/frames/frame_star_14.webp.b64",
+        "https://raw.githubusercontent.com/MegaNerdZeke/My-Projects/main/wattson-widget/frames/frame_star_15.webp.b64",
+        "https://raw.githubusercontent.com/MegaNerdZeke/My-Projects/main/wattson-widget/frames/frame_star_16.webp.b64"
       ]
     },
     {
-      "name": "Hello!",
+      "name": "Playing with Nessie",
       "frames": [
-        "https://raw.githubusercontent.com/MegaNerdZeke/My-Projects/main/wattson-widget/frames/wattson_avatar.webp.b64"
+        "https://raw.githubusercontent.com/MegaNerdZeke/My-Projects/main/wattson-widget/frames/frame_nessie_1.webp.b64",
+        "https://raw.githubusercontent.com/MegaNerdZeke/My-Projects/main/wattson-widget/frames/frame_nessie_2.webp.b64",
+        "https://raw.githubusercontent.com/MegaNerdZeke/My-Projects/main/wattson-widget/frames/frame_nessie_3.webp.b64",
+        "https://raw.githubusercontent.com/MegaNerdZeke/My-Projects/main/wattson-widget/frames/frame_nessie_4.webp.b64",
+        "https://raw.githubusercontent.com/MegaNerdZeke/My-Projects/main/wattson-widget/frames/frame_nessie_5.webp.b64",
+        "https://raw.githubusercontent.com/MegaNerdZeke/My-Projects/main/wattson-widget/frames/frame_nessie_6.webp.b64",
+        "https://raw.githubusercontent.com/MegaNerdZeke/My-Projects/main/wattson-widget/frames/frame_nessie_7.webp.b64",
+        "https://raw.githubusercontent.com/MegaNerdZeke/My-Projects/main/wattson-widget/frames/frame_nessie_8.webp.b64",
+        "https://raw.githubusercontent.com/MegaNerdZeke/My-Projects/main/wattson-widget/frames/frame_nessie_9.webp.b64",
+        "https://raw.githubusercontent.com/MegaNerdZeke/My-Projects/main/wattson-widget/frames/frame_nessie_10.webp.b64",
+        "https://raw.githubusercontent.com/MegaNerdZeke/My-Projects/main/wattson-widget/frames/frame_nessie_11.webp.b64",
+        "https://raw.githubusercontent.com/MegaNerdZeke/My-Projects/main/wattson-widget/frames/frame_nessie_12.webp.b64",
+        "https://raw.githubusercontent.com/MegaNerdZeke/My-Projects/main/wattson-widget/frames/frame_nessie_13.webp.b64",
+        "https://raw.githubusercontent.com/MegaNerdZeke/My-Projects/main/wattson-widget/frames/frame_nessie_14.webp.b64",
+        "https://raw.githubusercontent.com/MegaNerdZeke/My-Projects/main/wattson-widget/frames/frame_nessie_15.webp.b64",
+        "https://raw.githubusercontent.com/MegaNerdZeke/My-Projects/main/wattson-widget/frames/frame_nessie_16.webp.b64"
       ]
     }
   ]
