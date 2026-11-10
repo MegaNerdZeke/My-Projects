@@ -1,0 +1,59 @@
+{
+  "version": 1,
+  "appVersion": "1.0.0",
+  "downloadUrl": "https://github.com/MegaNerdZeke/My-Projects/tree/main/wattson-pc-companion",
+  "note": "Wattson PC Companion content feed. Wattson publishes new subjects/topics/verses here and the app picks them up on launch — no rebuild needed. When a new app version ships, bump appVersion and set downloadUrl to the new zip link.",
+  "subjects": [
+    {
+      "id": "digital-logic",
+      "label": "Digital Logic",
+      "icon": "⚡",
+      "topics": [
+        {
+          "id": "gates",
+          "label": "Logic gates",
+          "explainer": "Logic gates are the building blocks of every digital circuit — including the chips in your PC!\nAND: output is 1 only if BOTH inputs are 1.\nOR: output is 1 if EITHER input is 1.\nXOR: output is 1 if the inputs are DIFFERENT.\nNOT: flips its input (1 becomes 0, 0 becomes 1).\nNAND: an AND followed by a NOT — output is 0 only if both inputs are 1.\nA 2-input gate has 2² = 4 possible input combinations: 00, 01, 10, 11.",
+          "questions": [
+            {
+              "q": "An AND gate has inputs A=1 and B=0. What is its output?",
+              "answer": "0",
+              "solution": "AND is 1 only when BOTH inputs are 1. Here B=0, so the output is 0.",
+              "choices": ["0", "1", "2", "10"]
+            },
+            {
+              "q": "An OR gate has inputs A=1 and B=0. What is its output?",
+              "answer": "1",
+              "solution": "OR is 1 when EITHER input is 1. A=1, so the output is 1.",
+              "choices": ["0", "1", "2", "11"]
+            },
+            {
+              "q": "An XOR gate has inputs A=1 and B=1. What is its output?",
+              "answer": "0",
+              "solution": "XOR is 1 only when the inputs are DIFFERENT. Both are 1, so the output is 0.",
+              "choices": ["1", "0", "2", "11"]
+            },
+            {
+              "q": "A NOT gate has input 1. What is its output?",
+              "answer": "0",
+              "solution": "NOT flips its input: 1 becomes 0.",
+              "choices": ["1", "0", "2", "10"]
+            },
+            {
+              "q": "A NAND gate has inputs A=1 and B=1. What is its output?",
+              "answer": "0",
+              "solution": "NAND is an AND followed by a NOT. AND gives 1, NOT flips it to 0.",
+              "choices": ["1", "0", "2", "11"]
+            },
+            {
+              "q": "How many possible input combinations does a 2-input logic gate have?",
+              "answer": "4",
+              "solution": "Each input can be 0 or 1, so there are 2 × 2 = 4 combinations: 00, 01, 10, 11.",
+              "choices": ["2", "3", "4", "8"]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "verses": []
+}
