@@ -1,7 +1,7 @@
 {
-  "version": 4,
+  "version": 5,
   "appVersion": "1.2.0",
-  "downloadUrl": "https://github.com/MegaNerdZeke/My-Projects/tree/main/wattson-pc-companion",
+  "downloadUrl": "https://drive.google.com/file/d/1W5oT02nSiRi6T8DPNbNb6qfYlvHyUUFt/view?usp=drivesdk",
   "note": "Wattson PC Companion content feed. Wattson publishes new subjects/topics/verses here and the app picks them up on launch — no rebuild needed. When a new app version ships, bump appVersion and set downloadUrl to the new zip link.",
   "subjects": [
     {
