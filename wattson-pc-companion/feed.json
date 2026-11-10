@@ -1,7 +1,7 @@
 {
-  "version": 10,
-  "appVersion": "1.2.5",
-  "downloadUrl": "https://drive.google.com/file/d/1fD1P6vlZvfT4mtW-tEJz_WrRuL-MoqWI/view?usp=drivesdk",
+  "version": 11,
+  "appVersion": "1.2.6",
+  "downloadUrl": "https://drive.google.com/file/d/1qhNbYpMKz_uafUl0I6qGqncDm02BDfRy/view?usp=drivesdk",
   "note": "Wattson PC Companion content feed. Wattson publishes new subjects/topics/verses here and the app picks them up on launch — no rebuild needed. When a new app version ships, bump appVersion and set downloadUrl to the new zip link.",
   "subjects": [
     {
