@@ -1,8 +1,8 @@
 {
-  "version": 16,
-  "appVersion": "1.2.11",
-  "downloadUrl": "https://drive.google.com/file/d/1B51A0ahQxu0H9XYeSRcnIcvYxqNW62hu/view?usp=drivesdk",
-  "downloadSha256": "10df1789c75ac8cb8eb7af9ab00050e9c15cd3d48d0e762a1230d10ffe9fbb4e",
+  "version": 17,
+  "appVersion": "1.2.12",
+  "downloadUrl": "https://drive.google.com/file/d/1YIcIrroO5T8Dx7nJzQID7YlB_Z1viSvB/view?usp=drivesdk",
+  "downloadSha256": "3419ca39223bb394852263b85e3e7cb2bc9cf49598887068aebba0c4ff30261a",
   "note": "Wattson PC Companion content feed. Wattson publishes new subjects/topics/verses here and the app picks them up on launch — no rebuild needed. When a new app version ships, bump appVersion and set downloadUrl to the new zip link.",
   "subjects": [
     {
