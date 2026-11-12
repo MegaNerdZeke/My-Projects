@@ -1,5 +1,5 @@
 {
-  "version": 4,
+  "version": 5,
   "scenes": [
     {
       "name": "Reading a book",
@@ -143,6 +143,30 @@
       "name": "Cooking with Wattson",
       "frames": [
         "https://raw.githubusercontent.com/MegaNerdZeke/My-Projects/main/wattson-widget/frames/frame_cook_1.webp.b64"
+      ]
+    },
+    {
+      "name": "Wattson in orange",
+      "frames": [
+        "https://raw.githubusercontent.com/MegaNerdZeke/My-Projects/main/wattson-widget/frames/frame_skins_orange_1.webp.b64"
+      ]
+    },
+    {
+      "name": "Kitty princess Wattson",
+      "frames": [
+        "https://raw.githubusercontent.com/MegaNerdZeke/My-Projects/main/wattson-widget/frames/frame_skins_kitty_1.webp.b64"
+      ]
+    },
+    {
+      "name": "Punk Wattson",
+      "frames": [
+        "https://raw.githubusercontent.com/MegaNerdZeke/My-Projects/main/wattson-widget/frames/frame_skins_punk_1.webp.b64"
+      ]
+    },
+    {
+      "name": "Glasses Wattson",
+      "frames": [
+        "https://raw.githubusercontent.com/MegaNerdZeke/My-Projects/main/wattson-widget/frames/frame_skins_glasses_1.webp.b64"
       ]
     }
   ]
