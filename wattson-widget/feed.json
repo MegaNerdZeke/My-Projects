@@ -1,5 +1,5 @@
 {
-  "version": 6,
+  "version": 7,
   "scenes": [
     {
       "name": "Reading a book",
@@ -109,22 +109,7 @@
     {
       "name": "Wattson as Jotaro",
       "frames": [
-        "https://raw.githubusercontent.com/MegaNerdZeke/My-Projects/main/wattson-widget/frames/frame_jojo_1.webp.b64",
-        "https://raw.githubusercontent.com/MegaNerdZeke/My-Projects/main/wattson-widget/frames/frame_jojo_2.webp.b64",
-        "https://raw.githubusercontent.com/MegaNerdZeke/My-Projects/main/wattson-widget/frames/frame_jojo_3.webp.b64",
-        "https://raw.githubusercontent.com/MegaNerdZeke/My-Projects/main/wattson-widget/frames/frame_jojo_4.webp.b64",
-        "https://raw.githubusercontent.com/MegaNerdZeke/My-Projects/main/wattson-widget/frames/frame_jojo_5.webp.b64",
-        "https://raw.githubusercontent.com/MegaNerdZeke/My-Projects/main/wattson-widget/frames/frame_jojo_6.webp.b64",
-        "https://raw.githubusercontent.com/MegaNerdZeke/My-Projects/main/wattson-widget/frames/frame_jojo_7.webp.b64",
-        "https://raw.githubusercontent.com/MegaNerdZeke/My-Projects/main/wattson-widget/frames/frame_jojo_8.webp.b64",
-        "https://raw.githubusercontent.com/MegaNerdZeke/My-Projects/main/wattson-widget/frames/frame_jojo_9.webp.b64",
-        "https://raw.githubusercontent.com/MegaNerdZeke/My-Projects/main/wattson-widget/frames/frame_jojo_10.webp.b64",
-        "https://raw.githubusercontent.com/MegaNerdZeke/My-Projects/main/wattson-widget/frames/frame_jojo_11.webp.b64",
-        "https://raw.githubusercontent.com/MegaNerdZeke/My-Projects/main/wattson-widget/frames/frame_jojo_12.webp.b64",
-        "https://raw.githubusercontent.com/MegaNerdZeke/My-Projects/main/wattson-widget/frames/frame_jojo_13.webp.b64",
-        "https://raw.githubusercontent.com/MegaNerdZeke/My-Projects/main/wattson-widget/frames/frame_jojo_14.webp.b64",
-        "https://raw.githubusercontent.com/MegaNerdZeke/My-Projects/main/wattson-widget/frames/frame_jojo_15.webp.b64",
-        "https://raw.githubusercontent.com/MegaNerdZeke/My-Projects/main/wattson-widget/frames/frame_jojo_16.webp.b64"
+        "https://raw.githubusercontent.com/MegaNerdZeke/My-Projects/main/wattson-widget/frames/frame_jojo_1.webp.b64"
       ]
     },
     {
