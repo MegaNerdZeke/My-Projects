@@ -1,5 +1,5 @@
 {
-  "version": 3,
+  "version": 4,
   "scenes": [
     {
       "name": "Reading a book",
@@ -125,6 +125,24 @@
         "https://raw.githubusercontent.com/MegaNerdZeke/My-Projects/main/wattson-widget/frames/frame_jojo_14.webp.b64",
         "https://raw.githubusercontent.com/MegaNerdZeke/My-Projects/main/wattson-widget/frames/frame_jojo_15.webp.b64",
         "https://raw.githubusercontent.com/MegaNerdZeke/My-Projects/main/wattson-widget/frames/frame_jojo_16.webp.b64"
+      ]
+    },
+    {
+      "name": "Picnic day",
+      "frames": [
+        "https://raw.githubusercontent.com/MegaNerdZeke/My-Projects/main/wattson-widget/frames/frame_picnic_1.webp.b64"
+      ]
+    },
+    {
+      "name": "Beach day",
+      "frames": [
+        "https://raw.githubusercontent.com/MegaNerdZeke/My-Projects/main/wattson-widget/frames/frame_beach_1.webp.b64"
+      ]
+    },
+    {
+      "name": "Cooking with Wattson",
+      "frames": [
+        "https://raw.githubusercontent.com/MegaNerdZeke/My-Projects/main/wattson-widget/frames/frame_cook_1.webp.b64"
       ]
     }
   ]
