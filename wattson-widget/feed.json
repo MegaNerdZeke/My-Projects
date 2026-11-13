@@ -1,5 +1,5 @@
 {
-  "version": 7,
+  "version": 8,
   "scenes": [
     {
       "name": "Reading a book",
@@ -152,6 +152,18 @@
       "name": "Glasses Wattson",
       "frames": [
         "https://raw.githubusercontent.com/MegaNerdZeke/My-Projects/main/wattson-widget/frames/frame_skins_glasses_1.webp.b64"
+      ]
+    },
+    {
+      "name": "Cozy coffee time",
+      "frames": [
+        "https://raw.githubusercontent.com/MegaNerdZeke/My-Projects/main/wattson-widget/frames/frame_cozycoffee_1.webp.b64"
+      ]
+    },
+    {
+      "name": "Making espresso",
+      "frames": [
+        "https://raw.githubusercontent.com/MegaNerdZeke/My-Projects/main/wattson-widget/frames/frame_espresso_1.webp.b64"
       ]
     }
   ]
